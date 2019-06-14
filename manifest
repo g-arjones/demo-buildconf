@@ -1,0 +1,6 @@
+package_sets:
+  - github: g-arjones/demo-package_set
+# - github: Brazilian-Institute-of-Robotics/bir.mccr-package_set
+
+layout:
+  - demo_pkg
